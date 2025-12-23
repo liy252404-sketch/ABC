@@ -1,0 +1,7 @@
+{
+  "name": "City Pulse: Frequency Exchange",
+  "description": "A high-impact, audio-interactive landing page for an experimental music event, featuring parallax waveforms, interactive vinyl controls, and a musical staff market map.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
